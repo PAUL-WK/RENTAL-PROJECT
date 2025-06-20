@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Green View Apartments",
+      "location": "nairobi",
+      "bedrooms": 2,
+      "price": 8000,
+      "coords": { "lat": -1.286389, "lng": 36.817223 }
+    },
+    {
+      "id": 2,
+      "name": "Hilltop House",
+      "location": "kisumu",
+      "bedrooms": 1,
+      "price": 4000,
+      "coords": { "lat": -0.0917, "lng": 34.7679 }
+    },
+    {
+      "id": 3,
+      "name": "Sunset Flats",
+      "location": "nairobi",
+      "bedrooms": 3,
+      "price": 12000,
+      "coords": { "lat": -1.2841, "lng": 36.8167 }
+    },
+    {
+      "id": 4,
+      "name": "Riverbank Villa",
+      "location": "eldoret",
+      "bedrooms": 4,
+      "price": 15000,
+      "coords": { "lat": 0.5143, "lng": 35.2690 }
+    },
+    {
+      "id": 5,
+      "name": "Downtown Studio",
+      "location": "nairobi",
+      "bedrooms": 1,
+      "price": 5000,
+      "coords": { "lat": -1.2921, "lng": 36.8219 }
+    },
+    {
+      "id": 6,
+      "name": "Cozy Corner",
+      "location": "mombasa",
+      "bedrooms": 2,
+      "price": 7000,
+      "coords": { "lat": -4.0435, "lng": 39.6682 }
+    },
+    {
+      "id": 7,
+      "name": "Seafront Apartment",
+      "location": "mombasa",
+      "bedrooms": 3,
+      "price": 11000,
+      "coords": { "lat": -4.0547, "lng": 39.6636 }
+    },
+    {
+      "id": 8,
+      "name": "Garden Homes",
+      "location": "nakuru",
+      "bedrooms": 3,
+      "price": 9000,
+      "coords": { "lat": -0.3031, "lng": 36.0800 }
+    },
+    {
+      "id": 9,
+      "name": "Coastal Retreat",
+      "location": "malindi",
+      "bedrooms": 4,
+      "price": 14000,
+      "coords": { "lat": -3.2195, "lng": 40.1198 }
+    },
+    {
+      "id": 10,
+      "name": "Urban Loft",
+      "location": "nairobi",
+      "bedrooms": 2,
+      "price": 9500,
+      "coords": { "lat": -1.2833, "lng": 36.8168 }
+    },
+    {
+      "id": 11,
+      "name": "Family Bungalow",
+      "location": "kisumu",
+      "bedrooms": 3,
+      "price": 8500,
+      "coords": { "lat": -0.0915, "lng": 34.7688 }
+    },
+    {
+      "id": 12,
+      "name": "Highrise Suite",
+      "location": "nairobi",
+      "bedrooms": 4,
+      "price": 18000,
+      "coords": { "lat": -1.2856, "lng": 36.8223 }
+    },
+    {
+      "id": 13,
+      "name": "Budget Studio",
+      "location": "nakuru",
+      "bedrooms": 1,
+      "price": 3500,
+      "coords": { "lat": -0.3033, "lng": 36.0779 }
+    },
+    {
+      "id": 14,
+      "name": "Sunlit Penthouse",
+      "location": "nairobi",
+      "bedrooms": 5,
+      "price": 25000,
+      "coords": { "lat": -1.2867, "lng": 36.8154 }
+    },
+    {
+      "id": 15,
+      "name": "Lakeview Cottage",
+      "location": "kisumu",
+      "bedrooms": 2,
+      "price": 6000,
+      "coords": { "lat": -0.0657, "lng": 34.7768 }
+    },
+    {
+      "id": 16,
+      "name": "Riverside Retreat",
+      "location": "eldoret",
+      "bedrooms": 3,
+      "price": 13000,
+      "coords": { "lat": 0.5201, "lng": 35.2698 }
+    },
+    {
+      "id": 17,
+      "name": "City Center Flat",
+      "location": "mombasa",
+      "bedrooms": 2,
+      "price": 7500,
+      "coords": { "lat": -4.0410, "lng": 39.6680 }
+    },
+    {
+      "id": 18,
+      "name": "Elegant 3BR Home",
+      "location": "nairobi",
+      "bedrooms": 3,
+      "price": 10000,
+      "coords": { "lat": -1.2870, "lng": 36.8185 }
+    },
+    {
+      "id": 19,
+      "name": "Quiet Cottage",
+      "location": "nakuru",
+      "bedrooms": 2,
+      "price": 8000,
+      "coords": { "lat": -0.3040, "lng": 36.0825 }
+    },
+    {
+      "id": 20,
+      "name": "Beachside Bungalow",
+      "location": "malindi",
+      "bedrooms": 3,
+      "price": 13000,
+      "coords": { "lat": -3.2177, "lng": 40.1220 }
+    }
+  ]
+  
